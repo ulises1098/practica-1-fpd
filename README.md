@@ -1,2 +1,2 @@
-# practica-1-fundamentos-
-Fundamentos de programación  Grupo 2
+# practica-1-fdp
+Practica 1 Fundamentos de programación  
